@@ -70,3 +70,9 @@ span.highlight-red {
     color: white;
     transition: 0.3s;
 }
+
+span.highlight-blue {
+    background-color: darkblue;
+    color: white;
+    transition: 0.3s;
+}
