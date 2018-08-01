@@ -10,7 +10,7 @@ body {
 }
 
 .socials{
-	margin: 0 auto;
+	margin: 0px 43% auto;
 	max-width: 600px;
 }
 
@@ -63,6 +63,7 @@ a {
 span.highlight {
     background-color: #333;
     color: white;
+    padding: 0px 3px;
 }
 
 span.highlight-red {
