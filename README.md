@@ -1,2 +1,2 @@
-# [Visit bquirke.github.io](https://www.bquirke.github.io)
+# [Visit bquirke.github.io](https://bquirke.github.io/)
 
